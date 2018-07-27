@@ -2,5 +2,4 @@
 	phpinfo();
 	echo "ok";
 	echo 'no';
-	echo 'no';
 ?>
